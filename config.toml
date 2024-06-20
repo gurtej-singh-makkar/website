@@ -88,8 +88,8 @@ googleAnalitycsID = "G-PLG0BJF1QP"
   [params.banner]
     enable                = true
     background_image      = "images/spot-background.gif"
-    heading               = "A.T.O.M ROBOTICS LAB"
-    tagline               = "WE PLAY HARD, WE WORK HARD"
+    heading               = "Bot Mania"
+    tagline               = "Unleash Your Inner Robot Geek"
     primary_button        = "See Our Projects"
     primary_button_url    = "https://github.com/atom-robotics-lab"
     secondary_button      = "Connect with Us"

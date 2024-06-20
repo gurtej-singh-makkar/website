@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        <meta name="google-site-verification" content="IavuPJZ-2WGTiX-YqKbkFRHMwMuVWFSJLxeMMF21kVU" />
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PLG0BJF1QP"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-PLG0BJF1QP');
+        </script>
+        
+        <link rel="stylesheet" href="/syntax.css">
+        <title>{{ block "title" . }}
+          {{ .Site.Title }}
+          {{ end }}</title>
+    </head>
+
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <main>
+            {{- block "main" . }}{{- end }}
+        </main>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>

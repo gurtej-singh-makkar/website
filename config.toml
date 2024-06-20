@@ -87,7 +87,7 @@ googleAnalitycsID = "G-PLG0BJF1QP"
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/hero-background.png"
+    background_image      = "images/spot-background.gif"
     heading               = "A.T.O.M ROBOTICS LAB"
     tagline               = "WE PLAY HARD, WE WORK HARD"
     primary_button        = "See Our Projects"

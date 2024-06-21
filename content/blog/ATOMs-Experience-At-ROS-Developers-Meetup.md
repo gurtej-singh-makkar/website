@@ -1,5 +1,5 @@
 ---
-title: "A.T.O.M’s Experience At ROS Developers Meetup"
+title: "R²’s Experience At ROS Developers Meetup"
 date: 2023-05-07
 image: images/blog/ros-meetup/rosedit7.jpeg
 feature_image: images/blog/ros-meetup/Ros-Meetup-grp-pic.jpeg
@@ -46,7 +46,7 @@ Arjun gave a brief introduction to our society to the audience by sharing our jo
 #### Our Thoughts on this event : 
 {{<figure src="/images/blog/ros-meetup/l2.jpeg" width=50% >}}
 The event was a grand success and it was a great opportunity for us to meet industry professionals, learn from their experiences, and network at these gatherings which increases our community reach to a great extent. We look forward to attending more such events in future and even organising such events to spread the culture of technological innovation. 
-Stay tuned to our website and social media handles for more such insightful updates, till then keep learning and exploring the world of robotics with A.T.O.M.
+Stay tuned to our website and social media handles for more such insightful updates, till then keep learning and exploring the world of robotics with R².
 
 
 

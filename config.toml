@@ -88,7 +88,7 @@ googleAnalitycsID = "G-PLG0BJF1QP"
   [params.banner]
     enable                = true
     background_image      = "images/spot-background.gif"
-    heading               = "ROBOT RENDEZVOUS"
+    heading               = "ROBOT RENDEZVOUS (R²)"
     tagline               = "WHERE INNOVATION MEETS FUN!"
     primary_button        = "See Our Projects"
     primary_button_url    = "https://github.com/atom-robotics-lab"

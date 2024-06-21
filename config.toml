@@ -1,6 +1,6 @@
 baseURL       = "https://atom-robotics-lab.github.io"
 languageCode  = "en-us"
-title         = "A.T.O.M Labs"
+title         = "ROBOT RENDEZVOUS"
 theme         = "roxo"
 summarylength = 25
 googleAnalitycsID = "G-PLG0BJF1QP"
@@ -88,8 +88,8 @@ googleAnalitycsID = "G-PLG0BJF1QP"
   [params.banner]
     enable                = true
     background_image      = "images/spot-background.gif"
-    heading               = "Bot Mania"
-    tagline               = "Unleash Your Inner Robot Geek"
+    heading               = "ROBOT RENDEZVOUS"
+    tagline               = "WHERE INNOVATION MEETS FUN!"
     primary_button        = "See Our Projects"
     primary_button_url    = "https://github.com/atom-robotics-lab"
     secondary_button      = "Connect with Us"

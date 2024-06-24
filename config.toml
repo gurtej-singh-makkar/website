@@ -30,7 +30,7 @@ googleAnalitycsID = "G-PLG0BJF1QP"
     weight  = 3
  [[menu.nav]]
     name    = "Projects"
-    url     = "portfolio"
+    url     = "https://gurtej-singh-makkar.github.io/website/"
     weight  = 4
   [[menu.nav]]
     name    = "Blog"

@@ -24,10 +24,6 @@ googleAnalitycsID = "G-PLG0BJF1QP"
     name    = "About"
     url     = "about"
     weight  = 2
-  [[menu.nav]]
-    name    = "Wiki"
-    url     = "wiki"
-    weight  = 3
  [[menu.nav]]
     name    = "Projects"
     url     = "https://gurtej-singh-makkar.github.io/website/"
@@ -36,10 +32,6 @@ googleAnalitycsID = "G-PLG0BJF1QP"
     name    = "Blog"
     url     = "blog"
     weight  = 5
-  # [[menu.nav]]
-  # name    = "Sessions"
-  # url     = "sessions"
-  # weight  = 6
   [[menu.nav]]
     name    = "Downloads"
     url     = "downloads"
@@ -113,9 +105,9 @@ googleAnalitycsID = "G-PLG0BJF1QP"
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Where to find us?"
-      address = "ECE Block Basement <br>Maharaja Agrasen Institute of Technology"
+      address = "St marks school janak puri "
       phone   = "8802327251"
-      email   = "atom@inventati.org"
+      email   = "gurtejs3322@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"

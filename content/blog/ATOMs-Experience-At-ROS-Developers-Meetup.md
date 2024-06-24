@@ -6,7 +6,7 @@ feature_image: images/blog/ros-meetup/Ros-Meetup-grp-pic.jpeg
 author: Abhishek Garg
 ---
 
-Hey Robo geeks, here is another blog about A.T.O.M’s amazing experiences.
+Hey Robo geeks, here is another blog about R²’s amazing experiences.
 On 29th April 2023, A.T.O.M members attended the ROS Developers Meet-up at the R&I park, Indian Institute of Technology Delhi which was hosted by Acceleration Robotics in collaboration with Peer Robotics. The event was attended by over 100 people from various backgrounds and domains, including students, researchers, professionals, and enthusiasts. The meet-up was aimed at bringing together the ROS community in India and fostering knowledge sharing and collaboration among them. 
 
 #### Sounds Cool, Right? But what is a developers meetup?
@@ -25,7 +25,7 @@ The event started with an inaugural address by Professor SK Saha, Project Direct
 {{<figure src="/images/blog/ros-meetup/peer.jpeg" width=100% caption="Fig 3: Alok Kumar, Cofounder and Head of technology at peer Robotics">}}
 Alok Kumar, CoFounder and Head of Technology at Peer Robotics, then talked about approaches for developing human-robot interaction with ROS and talked through the construction of an HRI example. He emphasised the hybrid approach of rule-based systems with machine learning techniques in modern systems. Then next, Aditya Mulgundkar, a robotics researcher from IIIT Hyderabad, presented DroneForce, a framework for creating custom controllers for drones using ROS. DroneForce abstracts low-level information for controls engineers, allowing them to build up controllers without relying on Simulink or MATLAB code creation.
 
-##### The next talk was led by our founders of A.T.O.M. Robotics, Jasmeet Singh and Naman Malik, who are currently working as robotics engineers at Acceleration Robotics.
+##### The next talk was led by our founders of R², Jasmeet Singh and Gurtej singh makkar, who are currently working as robotics engineers at Acceleration Robotics.
 {{<figure src="/images/blog/ros-meetup/one.jpg" width=100% >}}
 {{<figure src="/images/blog/ros-meetup/two.jpg" width=100% caption="Fig 4: Jasmeet Singh and Naman Malik, Founders A.T.O.M. Robotics">}}
 They demonstrated-
@@ -36,7 +36,7 @@ They demonstrated-
 
 Their work will be integrated into the future edition of Ignition Gazebo, which will allow users to create custom environments and scenarios with more ease and flexibility.
 
-##### And, finally, Our admin, Arjun K. Haridas, represented A.T.O.M. Robotics on stage. 
+##### And, finally, Our admin, Arjun K. Haridas, represented R²on stage. 
 {{<figure src="/images/blog/ros-meetup/a1.jpg" width=100% caption="Fig 5: Arjun K. Haridas ">}}
 Arjun gave a brief introduction to our society to the audience by sharing our journey, from how we began the society by participating in various hackathons and events to successfully establishing and building a strong robotics community that fosters a culture of innovation and embraces technological progress.
 

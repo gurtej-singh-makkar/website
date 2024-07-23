@@ -20,10 +20,6 @@ googleAnalitycsID = "G-PLG0BJF1QP"
     name    = "Home"
     url     = ""
     weight  = 1
-  [[menu.nav]]
-    name    = "About"
-    url     = "about"
-    weight  = 2
  [[menu.nav]]
     name    = "Projects"
     url     = "portfolio"
@@ -111,9 +107,6 @@ googleAnalitycsID = "G-PLG0BJF1QP"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
-        [[params.footer.sitemap.link]]
-          name = "About Us"
-          url  = "about"
         [[params.footer.sitemap.link]]
           name = "Projects"
           url  = "portfolio"
